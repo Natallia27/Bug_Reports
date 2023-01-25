@@ -470,26 +470,3 @@
    **Expected result:** The page is refreshed after clicking the ""Guru99 Telecom"" button.","0"
 "G31-6","group3.1","Star","Index page: The name of the ""Add Tariff Plan to Customer"" button  in the hamburger menu does not match the name of  the ""Add Tariff Plan to Customer"" button on the homepage","Natallia Viarenich","5 Dec 2022","7 Dec 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR**
 
-1. Open the page <https://demo.guru99.com/telecom/index.html>
-
-2. Expand the  hamburger menu.
-
-   **Result:** The name of the ""Add Tariff Plan to Customer"" button  in the hamburger menu does not match the name of  the ""Add Tariff Plan to Customer"" button on the homepage.
-
-   **Expected result:** The name of the ""Add Tariff Plan to Customer"" button  in the hamburger menu matches the name of  the ""Add Tariff Plan to Customer"" button on the homepage.","0"
-"G31-5","group3.1","Star","Billing Address (Add customer module ):  The ""Numbers, Cyrillic and special characters are not allowed"" error message  is not displayed after inputting Number, Special characters, Cyrillic symbols in the ""Last Name"" field","Natallia Viarenich","5 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR**
-
-1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
-
-2. Select the ""Last Name"" field.
-
-3. Input Number, Special characters, Cyrillic symbols
-
-   **Result:** The ""Numbers, Cyrillic and special characters are not allowed"" error message  is not displayed (The error message ""Special characters are not allowed"" is displayed) in the ""Last Name"" field.
-
-   **Expected result:** The ""Numbers, Cyrillic and special characters are not allowed"" error message is displayed in the ""Last Name"" field.","0"
-"G31-4","group3.1","Star","Testing Documentation Natallia Viarenich","Natallia Viarenich","5 Dec 2022","7 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)",,"0"
-"G31-1","group3.1","","Testing Documentation","root","29 Nov 2022","25 Jan 2023",,"Critical","Epic","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
-"G31-2","group3.1","","Web App Testing","root","29 Nov 2022","12 Jan 2023",,"Critical","Task","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
-"G31-3","group3.1","","Mobile App Testing","root","29 Nov 2022","17 Jan 2023",,"Critical","Epic","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
-"G31-93","group3.1","","Testing documentation Buzhinskaya Alexandra","svartregn","20 Dec 2022","20 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
