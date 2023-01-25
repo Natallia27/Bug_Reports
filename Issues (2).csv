@@ -1,0 +1,495 @@
+﻿"Issue Id","Project","Tags","Summary","Reporter","Created","Updated","Resolved","Priority","Type","State","Assignee","Sprints","Story points","Environment","QASE TC # (only for bug)","Description","Votes"
+"G31-1","group3.1","","Testing Documentation","root","29 Nov 2022","25 Jan 2023",,"Critical","Epic","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
+"G31-123","group3.1","Star","The completed task is not deleted after tapping the ""Clear completed"" ","Natallia Viarenich","19 Jan 2023","19 Jan 2023",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Kebab menu.
+
+2. Tap the ""Clear completed"".
+
+   **Result:** The completed task is not deleted.
+
+   **Expected result:** The completed task is deleted.","0"
+"G31-122","group3.1","Star","The page is not refreshed after tapping the ""Refresh"" in the Kebab menu","Natallia Viarenich","19 Jan 2023","19 Jan 2023",,"Critical","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Kebab menu.
+
+2. Tap the ""Refresh"".
+
+   **Result:** The page is not refreshed.
+
+   **Expected result:** The page is refreshed.","0"
+"G31-121","group3.1","Star","The titles of active tasks are not displayed correctly after tapping the ""Active"" in the Döner menu","Natallia Viarenich","19 Jan 2023","19 Jan 2023",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Döner menu.
+
+2. Tap the ""Active"".
+
+   **Result:** The titles of active tasks are not displayed correctly.
+
+   **Expected result:** The titles of active tasks are displayed correctly.","0"
+"G31-120","group3.1","Star","The saving is not available after tapping the checkmark button when data in the format DD.MM.YYYY is inputted in the ""Title"" field and Latin symbols, Spaces, Special characters and Emoji is inputted in the task description field","Natallia Viarenich","19 Jan 2023","19 Jan 2023",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Input data in the format DD.MM.YYYY in the ""Title"" field.
+
+5. Input Latin symbols, Spaces, Special characters and Emoji in the task description field.
+
+6. Tap the checkmark button.
+
+   **Result:** The saving is not available.
+
+   **Expected result:** The saving is available.","0"
+"G31-119","group3.1","Star","The saving is not available after tapping the checkmark button when Latin symbols, Spaces and Emoji are inputted  in the task description field","Natallia Viarenich","19 Jan 2023","19 Jan 2023",,"Critical","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Input Latin symbols in the ""Title"" field.
+
+5. Input Latin symbols, Spaces and Emoji in the task description field.
+
+6. Tap the checkmark button.
+
+   **Result:** The saving is not available.
+
+   **Expected result:** The saving is available.","0"
+"G31-118","group3.1","Star","The saving is not available after tapping the checkmark button when Latin Symbols and Numbers are inputted  in the task description field","Natallia Viarenich","19 Jan 2023","19 Jan 2023",,"Major","Task","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Input Latin symbols in the ""Title"" field.
+
+5. Input Latin symbols and numbers in the task description field.
+
+6. Tap the checkmark button.
+
+   **Result:** The saving is not available.
+
+   **Expected result:** The saving is available.","0"
+"G31-117","group3.1","Star","The saving is not available after tapping the checkmark button when Latin symbols, Spaces, Numbers, Special characters are inputted in the ""Title"" field","Natallia Viarenich","19 Jan 2023","19 Jan 2023",,"Critical","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Input Latin symbols, Spaces, Numbers, Special characters in the ""Title"" field.
+
+5. Tap the checkmark button.
+
+   **Result:** The saving is not available.
+
+   **Expected result:** The saving is available.","0"
+"G31-116","group3.1","Star","Cyrillic symbols are not inputted in the task description field","Natallia Viarenich","17 Jan 2023","19 Jan 2023",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Input Cyrillic symbols in the task description field.
+
+   **Result:** Cyrillic symbols are not inputted in the task description field.
+
+   **Expected result:** Cyrillic symbols are inputted in the task description field.","0"
+"G31-115","group3.1","Star","Cyrillic symbols are not inputted in the ""Title"" field","Natallia Viarenich","17 Jan 2023","19 Jan 2023",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Input Cyrillic symbols in the ""Title"" field.
+
+   **Result:** Cyrillic symbols are not inputted in the ""Title"" field.
+
+   **Expected result:** Cyrillic symbols are inputted in the ""Title"" field.","0"
+"G31-114","group3.1","Star","The user is not redirected to the previous screen after tapping the back pointer if the task has not been saved","Natallia Viarenich","17 Jan 2023","19 Jan 2023",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Fill in the fields Latin Symbol (without tapping the checkmark button).
+
+5. Tap the back pointer.
+
+   **Result:** The user is not redirected to the previous screen.
+
+   **Expected result:** The user is redirected to the previous screen.","0"
+"G31-113","group3.1","Star","The user is not redirected to the previous screen after tapping the back pointer when the task fields are empty","Natallia Viarenich","17 Jan 2023","19 Jan 2023",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)","**STR:**
+
+1. Tap the Hamburger menu.
+
+2. Tap the ""TO-Do list"".
+
+3. Tap the ""+"" button.
+
+4. Tap the back pointer.
+
+   **Result:** The user is not redirected to the previous screen.
+
+   **Expected result:** The user is redirected to the previous screen.","0"
+"G31-112","group3.1","Star","Mobile App Testing Natallia Viarenich ","Natallia Viarenich","17 Jan 2023","19 Jan 2023",,"Normal","Task","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Android Studio Electric Eel | 2022.1.1","No qase tc # (only for bug)",,"0"
+"G31-3","group3.1","","Mobile App Testing","root","29 Nov 2022","17 Jan 2023",,"Critical","Epic","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
+"G31-2","group3.1","","Web App Testing","root","29 Nov 2022","12 Jan 2023",,"Critical","Task","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
+"G31-93","group3.1","","Testing documentation Buzhinskaya Alexandra","svartregn","20 Dec 2022","20 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"No environment","No qase tc # (only for bug)",,"0"
+"G31-87","group3.1","Star","Shopping cart (Submodule Wrapper): Information about the currency of payment is not available in the ""Cart Totals"" section after displaying the Total price","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Open the <https://demowebshop.tricentis.com/>
+
+2. Select the product: Categories-\>Books-\> The book ""Computing and Internet""
+
+3. Click The ""Add to cart"" button
+
+4. Click the ""Shopping cart"" header link
+
+5. Navigate to the ""Cart Totals"" section
+
+   **Result:** Information about the currency of payment is not available in the ""Cart Totals"" section.
+
+   **Expected result:** Information about the currency of payment is available in the ""Cart Totals"" section","0"
+"G31-86","group3.1","Star","Shopping cart (Submodule Wrapper): The shipping price is not displayed after inputting valid information in the ""Estimate shipping"" section","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Open the <https://demowebshop.tricentis.com/>
+
+2. Select the product: Categories-\>Books-\> The book ""Computing and Internet""
+
+3. Click the ""Add to cart"" button
+
+4. Click the ""Shopping cart"" header link
+
+5. Navigate to the ""Estimate shipping"" section
+
+6. Input a valid destination (Country: ""Poland"", Zip ""01-493"")
+
+7. Click the ""Estimate shipping"" button
+
+   **Result:** The shipping price is not displayed after inputting valid information in the ""Estimate shipping"" section.
+
+   **Expected result:** The shipping price is displayed after inputting valid information in the ""Estimate shipping"" section.","0"
+"G31-85","group3.1","Star","Shopping Cart (Submodule Wrapper): The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""Zip-postal code"" field","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demowebshop.tricentis.com/cart>
+
+2. Navigate to the ""Estimate shipping"" section.
+
+3. Input the Cyrillic symbols in the ""Zip/postal code"" field.
+
+   **Result:** The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""Zip/postal code"" field.
+
+   **Expected result:** The ""Cyrillic symbols are not allowed"" error message is displayed after inputting Cyrillic symbols in the ""Zip/postal code"" field.","0"
+"G31-92","group3.1","Star","Checkout (Submodule 5 Payment Information): The ""Wrong Card code"" error message is not displayed after inputting an invalid Card code in the ""Payment Information"" section","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Select credit card type ""AMEX"" in the ""Payment Information"" section (checkout step 5) in the ""Select credit card"" dropdown.
+2. Input the Cardholder name ""TEST"" in the ""Cardholder name"" field
+3. Input the Card number ""375700000000002"" in the ""Card number"" field
+4. Input the Expiration date ""12/2025"" in the ""Expiration date"" combo-box
+5. Input the invalid code ""1235"" in the ""Card code"" field
+6. Click the ""Continue"" button
+
+**Result:** The ""Wrong Card code"" error message is not displayed after inputting an invalid card code in the ""Payment Information"" section
+
+**Expected result:** The ""Wrong Card code"" error message is displayed after inputting an invalid card code in the ""Payment Information"" section
+
+
+","0"
+"G31-90","group3.1","Star","Checkout (Submodule 5 Payment Information): The ""Card Expired"" error message is not displayed after inputting an expired credit card in the ""Payment Information"" section","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Select the radiobutton ""Credit card"" in the ""Payment Method"" section (checkout step 4).
+
+2. Click the ""Continue"" button
+
+3. Input in the ""Expiration date"" combo-box an expired date
+
+   **Result:** The ""Card Expired"" error message is not displayed after inputting an expired credit card in the ""Payment Information"" section
+
+   **Expected result:** The ""Card Expired"" error message is displayed after inputting an expired credit card in the ""Payment Information"" section","0"
+"G31-88","group3.1","Star","Checkout (Submodule 1 Billing address): The ""Numbers are not allowed"" error message is not displayed after inputting Numbers in the ""First Name"" field","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Select the Billing address on the page <https://demowebshop.tricentis.com/onepagecheckout>
+
+2. Input Numbers in the ""First Name"" field
+
+3. Fill in the other required fields with valid values
+
+4. Click the ""Continue"" button
+
+   **Result:** The ""Numbers are not allowed"" error message is not displayed
+
+   **Expected result:** The ""Numbers are not allowed"" error message is displayed","0"
+"G31-84","group3.1","Star","Web App Testing Natallia Viarenich","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)",,"0"
+"G31-91","group3.1","Star","Checkout (Submodule 5 Payment Information): The ""Payment is blocked due to suspected fraud"" message is not displayed after inputting Pick up. Stolen card","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Select credit card type ""Master Card""  in the ""Payment Information"" section (checkout step 5) in the ""Select credit card"" dropdown.
+2.  Input the Cardholder name ""TEST"" in the ""Cardholder name"" field
+3. Input the Card number ""5538300838605560"" in the ""Card number"" field
+4.  Input the Expiration date ""12/2025"" in the ""Expiration date"" combo-box
+5. Input the Card code ""123"" in the ""Card code"" field
+6. Click the ""Continue"" button
+
+**Result:** The ""Payment is blocked due to suspected fraud"" message is not displayed after inputting Pick up. Stolen card
+
+**Expected result:** The ""Payment is blocked due to suspected fraud"" message is  displayed after inputting Pick up. Stolen card
+
+
+","0"
+"G31-89","group3.1","Star","Checkout (Submodule 5 Payment Information): The organization JCB that issued the payment instrument is not available in the ""Select credit card"" dropdown-list in the ""Payment Information"" section","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Select the radiobutton ""Credit card"" in the ""Payment Method"" section (checkout step 4).
+
+2. Click the ""Continue"" button
+
+3. Navigate to the ""Select credit card"" dropdown-list in the ""Payment Information"" section (checkout step 5)
+
+   **Result:** The organization JCB that issued the payment instrument is not available in the ""Select credit card"" dropdown-list in the ""Payment Information"" section
+
+   **Expected result:** The organization JCB that issued the payment instrument is available in the ""Select credit card"" dropdown-list in the ""Payment Information"" section","0"
+"G31-83","group3.1","Star","Shopping Cart (Submodule Header):  The popup menu with the quantity and price of the selected products is not displayed after hovering the mouse cursor over the ""Wishlist"" header link","Natallia Viarenich","19 Dec 2022","19 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 22H2 (64-bit operating system), Google Chrome Version 108.0.5359.99","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demowebshop.tricentis.com/>
+2. Hover the mouse cursor over the ""Wishlist"" header link 
+
+   **Result:** The popup menu with the quantity and price of the selected products is not displayed.
+
+   **Expected result:** The popup menu with the quantity and price of the selected products is displayed.","0"
+"G31-25","group3.1","Star","Add Customer: The ""Please fill all fields"" message is not displayed when the field Background Check is empty after clicking the ""Submit"" button","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Fill in all fields with the exception of the ""Background Check"" field with valid values.
+
+3. Click the ""Submit"" button.
+
+   **Result:** The ""Please fill all fields"" message is not displayed when the ""Background Check"" field is empty after clicking the ""Submit"" button (Customer ID is assigned after clicking the ""Submit"" button).
+
+   **Expected result:** The ""Please fill all fields""message is displayed when the ""Background Check"" field is empty after clicking the ""Submit"" button.","0"
+"G31-23","group3.1","Star","Billing Address (Add Customer module): The ""Letters and special characters are not allowed"" error message is not displayed after inputting Latin symbols and special characters in the ""Mobile Number"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Mobile Number"" field.
+
+3. Input Latin symbols and special characters.
+
+   **Result:** The ""Letters and special characters are not allowed"" error message is not displayed after inputting Latin symbols and special characters in the ""Mobile Number"" field.
+
+   **Expected result:** The ""Letters and special characters are not allowed"" error message  is displayed after inputting Latin symbols and special characters in the ""Mobile Number"" field.","0"
+"G31-22","group3.1","Star","Billing Address (Add Customer module): The ""Letters and special characters are not allowed"" error message is not displayed after inputting Cyrillic symbols and special characters in the ""Mobile Number"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Mobile Number"" field.
+
+3. Input Cyrillic symbols and special characters.
+
+   **Result:** The ""Letters and special characters are not allowed"" error message is not displayed after inputting Cyrillic symbols and special characters in the ""Mobile Number"" field.
+
+   **Expected result:** The ""Letters and special characters are not allowed"" error message is displayed after inputting Cyrillic symbols and special characters in the ""Mobile Number"" field.","0"
+"G31-21","group3.1","Star","Billing Address (Add Customer module): The ""Letters are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""Mobile Number"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Mobile Number"" field.
+
+3. Input Cyrillic Symbols.
+
+   **Result:** The ""Letters are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""Mobile Number"" field.
+
+   **Expected result:** The ""Letters are not allowed"" error message is displayed after inputting Cyrillic symbols in the ""Mobile Number"" field.","0"
+"G31-20","group3.1","Star","Billing Address (Add Customer module): The ""Letters are not allowed"" error message is not displayed after inputting Latin symbols in the ""Mobile Number"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Mobile Number"" field.
+
+3. Input Latin Symbols.
+
+   **Result:** The ""Letters are not allowed"" error message is not displayed after inputting Latin symbols in the ""Mobile Number"" field.
+
+   **Expected result:** The ""Letters are not allowed"" error message  is displayed after inputting Latin symbols in the ""Mobile Number"" field.","0"
+"G31-16","group3.1","Star","Billing Address (Add Customer module): The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Latin and Cyrillic symbols in the ""Address"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1\. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2\. Select the ""Address"" field.
+
+3\. Input Cyrillic symbols.
+
+**Result:** The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""Address"" field.
+
+**Expected result:** The ""Cyrillic symbols are not allowed"" error message  is displayed after inputting Cyrillic symbols in the ""Address"" field.","0"
+"G31-14","group3.1","Star","Billing Address (Add Customer module): The ""Cyrillic symbols are not allowed"" error message  is not displayed after inputting Latin and Cyrillic symbols in the ""Last Name"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1\. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2\. Select the ""Last Name"" field.
+
+3\. Input Latin and Cyrillic symbols.
+
+**Result:** The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Latin and Cyrillic symbols in the ""Last Name"" field.
+
+**Expected result:** The ""Cyrillic symbols are not allowed"" error message is displayed after inputting Latin and Cyrillic symbols in the ""Last Name"" field.","0"
+"G31-5","group3.1","Star","Billing Address (Add customer module ):  The ""Numbers, Cyrillic and special characters are not allowed"" error message  is not displayed after inputting Number, Special characters, Cyrillic symbols in the ""Last Name"" field","Natallia Viarenich","5 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Last Name"" field.
+
+3. Input Number, Special characters, Cyrillic symbols
+
+   **Result:** The ""Numbers, Cyrillic and special characters are not allowed"" error message  is not displayed (The error message ""Special characters are not allowed"" is displayed) in the ""Last Name"" field.
+
+   **Expected result:** The ""Numbers, Cyrillic and special characters are not allowed"" error message is displayed in the ""Last Name"" field.","0"
+"G31-13","group3.1","Star","Billing Address (Add Customer module ): The ""Cyrillic symbols are not allowed"" error message  is not displayed after inputting Cyrillic symbols in the ""Last Name"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1\. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2\. Select the ""Last Name"" field.
+
+3\. Input Cyrillic symbols.
+
+**Result:** The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""Last Name"" field.
+
+**Expected result:** The ""Cyrillic symbols are not allowed"" error message is displayed after inputting Cyrillic symbols in the ""Last Name"" field.","0"
+"G31-12","group3.1","Star","Billing Address (Add Customer module): The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Latin and Cyrillic symbols in the ""First Name"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1\. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2\. Select the ""First Name"" field.
+
+3\. Input Latin and Cyrillic symbols.
+
+**Result:** The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Latin and Cyrillic symbols in the ""First Name"" field.
+
+**Expected result:** The ""Cyrillic symbols are not allowed"" error message is displayed after inputting Latin and Cyrillic symbols in the ""First Name"" field.","0"
+"G31-11","group3.1","Star","Billing Address (Add Customer module): The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""First Name"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1\. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2\. Select the ""First Name"" field.
+
+3\. Input Cyrillic symbols.
+
+**Result:** The ""Cyrillic symbols are not allowed"" error message is not displayed after inputting Cyrillic symbols in the ""First Name"" field.
+
+**Expected result:** The ""Cyrillic symbols are not allowed"" error message is displayed after inputting Cyrillic symbols in the ""First Name"" field.","0"
+"G31-10","group3.1","Star","Billing Address (Add Customer module): The ""Numbers, Cyrillic and special characters are not allowed"" error message is not displayed after inputting Numbers, Cyrillic symbols, Special characters in the ""First Name"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""First Name"" field.
+
+3. Input Numbers, Cyrillic symbols, Special characters.
+
+   **Result:** The ""Numbers, Cyrillic and special characters are not allowed"" error message is not displayed after inputting Numbers, Cyrillic symbols, Special characters in the ""First Name"" field.
+
+   **Expected result:** The ""Numbers, Cyrillic and special characters are not allowed"" error message is displayed after inputting Numbers, Cyrillic symbols, Special characters in the ""First Name"" field.","0"
+"G31-24","group3.1","Star","Reset (Add Costumer module) The error messages are not reset after clicking the ""Reset"" button","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Put numbers (invalid values) in the ""First Name"" field to display an error message.
+
+3. Click the ""Reset"" button.
+
+   **Result:** The error messages are not reset after clicking the ""Reset"" button.
+
+   **Expected result:** The error messages are reset after clicking the ""Reset"" button.","0"
+"G31-19","group3.1","Star","Billing Address (Add Customer module): The mobile number error is not displayed after inputting the invalid mobile number format in the ""Mobile Number"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Mobile Address"" field.
+
+3. Input invalid mobile number format.
+
+   **Result:** The mobile number error is not displayed (Customer ID is assigned after clicking the ""Submit"" button).
+
+   **Expected result:** The mobile number error is displayed.","0"
+"G31-18","group3.1","Star","Billing Address (Add Customer module): A valid mobile number in format +xxxxxxxxxxxx (""+"" and 12 numbers ) is not inputted in the ""Mobile Number"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Mobile Number"" field.
+
+3. Input a valid phone number in format +xxxxxxxxxxxx (""+"" and 12 numbers ).
+
+   **Result:** The valid mobile number in format +xxxxxxxxxxxx (""+"" and 12 numbers ) is not inputted in the ""Mobile Number"" field (The length of the field is limited to 12 characters)
+
+   **Expected result:** The valid mobile number is inputted.","0"
+"G31-17","group3.1","Star","Billing Address (Add Customer module): The address format error is not displayed after inputting Latin Symbol with an invalid address format in the ""Address"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Major","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Select the ""Address"" field.
+
+3. Input invalid address in Latin.
+
+4. Click the ""Submit"" button.
+
+   **Result:** The address format error is not displayed (Customer ID is assigned after clicking the ""Submit"" button).
+
+   **Expected result:** The address format error is displayed.","0"
+"G31-15","group3.1","Star","Billing Address (Add Customer module): The ""Enter your address"" placeholder does not correspond to the name of the ""Address"" field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+   **Result:** The ""Enter your address"" placeholder does not correspond to the name of the ""Address"" field.
+
+   **Expected result:** The placeholder ""Enter your address"" corresponds to the name of the ""Address"" field.","0"
+"G31-9","group3.1","Star","Billing Address (Add Customer module): The ""First Name"" field is not marked with (*) as required","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+   **Result:** The ""First Name"" field is not marked with (\*) as required.
+
+   **Expected result:** The ""First Name"" field is  marked with (\*) as required.","0"
+"G31-8","group3.1","Star","Billing Address (Add Customer module): The label is not contained in the ""First Name""  field","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+**Result:** The label is not contained in the ""First Name"" field.
+
+**Expected result:** The label is contained in the ""First Name"" field.
+
+
+","0"
+"G31-7","group3.1","Star","Add customer: The page is not refreshed after clicking the ""Guru99 Telecom"" button","Natallia Viarenich","6 Dec 2022","7 Dec 2022",,"Normal","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR:**
+
+1. Open the page <https://demo.guru99.com/telecom/addcustomer.php>
+
+2. Click the ""Guru99 Telecom"" button.
+
+   **Result:** The page is not refreshed after clicking the ""Guru99 Telecom"" button.  It redirects to the home page.
+
+   **Expected result:** The page is refreshed after clicking the ""Guru99 Telecom"" button.","0"
+"G31-6","group3.1","Star","Index page: The name of the ""Add Tariff Plan to Customer"" button  in the hamburger menu does not match the name of  the ""Add Tariff Plan to Customer"" button on the homepage","Natallia Viarenich","5 Dec 2022","7 Dec 2022",,"Minor","Bug","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)","**STR**
+
+1. Open the page <https://demo.guru99.com/telecom/index.html>
+
+2. Expand the  hamburger menu.
+
+   **Result:** The name of the ""Add Tariff Plan to Customer"" button  in the hamburger menu does not match the name of  the ""Add Tariff Plan to Customer"" button on the homepage.
+
+   **Expected result:** The name of the ""Add Tariff Plan to Customer"" button  in the hamburger menu matches the name of  the ""Add Tariff Plan to Customer"" button on the homepage.","0"
+"G31-4","group3.1","Star","Testing Documentation Natallia Viarenich","Natallia Viarenich","5 Dec 2022","7 Dec 2022",,"Normal","Task","Open","Unassigned","Unscheduled",,"Windows 11 Home Version 21H2 (64-bit operating system), Google Chrome Version 107.0.5304.123","No qase tc # (only for bug)",,"0"
